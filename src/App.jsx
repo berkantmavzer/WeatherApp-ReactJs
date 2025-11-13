@@ -5,7 +5,7 @@ import Search from "./components/Search";
 import ShowWeather from "./components/ShowWeather";
 import axios from "axios";
 
-const API_KEY = "742d3368c5237970da3ce14e6a1b77cf";
+const API_KEY = "YourApiKey";
 
 function App() {
   const [city, setCity] = useState("");
